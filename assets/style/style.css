@@ -1,0 +1,39 @@
+body{
+    overflow-x: hidden;
+}
+
+h1 {
+    font-family:'SamsungOne';
+}
+p {
+    font-family: 'SamsungOne';
+}
+
+.navbar {
+  background-color: #fff;
+  border-bottom: 1px solid #e5e5e5;
+  transition: all 0.3s ease;
+  z-index: 100;
+}
+
+.samsung-logo {
+  height: 20px;
+  width: auto;
+}
+
+.navbar .btn-primary {
+  background-color: #000000; 
+  border: none;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.navbar .btn-primary:hover {
+  background-color: #005fcc;
+  transition: 0.5s;
+}
+
+.footer{
+    background-color: rgb(221, 221, 221);
+}
+
